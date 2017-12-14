@@ -1,4 +1,4 @@
-# Just Another 500 Error ¯\\_(ツ)_/¯.
+# Just Another 500 Error ¯\\\_(ツ)\_/¯.
 
 This plugin is meant to brick your site.
 
